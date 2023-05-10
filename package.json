@@ -5,7 +5,8 @@
   "author": "Lovell Fuller <npm@lovell.info>",
   "license": "Apache-2.0",
   "bin": {
-    "avif": "./bin/avif.js"
+    "avif": "./bin/avif.js",
+    "webp": "./bin/webp.js"
   },
   "scripts": {
     "test": "prettier --check '**/*.js'"
